@@ -1,0 +1,18 @@
+.display_div{
+    display: flex;
+    align-items: center;
+    margin:15px;
+    width: 50vw;
+}
+
+h1{
+    width: 30vw;
+    padding-left: 10px;
+}
+
+.display_div> button{
+    overflow: hidden;
+    margin:15px;
+    width: 15vw;
+    height: 3vh;
+}
